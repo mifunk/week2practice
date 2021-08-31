@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color: aqua;
+    font-size: 24px;
+}
+
+p{
+    width: 250px;
+    text-align: center;
+}
+
+div{
+    background-color: blue;
+    border: solid 3px black;
+    margin-top: 8px;
+    margin-left: 20px;
+    color: white;
+}
+
+#box1 {
+    width: 100px;
+    height: 200px;
+}
+#box2 {
+    width: 400px;
+    height: 200px;
+}
